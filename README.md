@@ -11,6 +11,8 @@
 
 ## <ins> Architecture : </ins>
 ![Project architecture](architecture/architecture.png)
+### <ins>CONTROL-CENTER :</ins>
+![DATA](architecture/Control-center.png)
 ## <ins>Installation :</ins>
 ```bash
 $ git clone https://github.com/AnasNedday/Data-Engineering-Project.git
@@ -39,5 +41,6 @@ $ docker-compose up
         <img src=architecture/docker.png alt="Docker" width="100" height="100">
     </p>
 </div>
+
 
 
