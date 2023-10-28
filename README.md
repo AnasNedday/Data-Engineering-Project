@@ -25,6 +25,7 @@ $ docker-compose up
 - **Apache Kafka** 
 - **Apache Spark** 
 - **Apache Cassandra** 
+- **Apache ZooKeeper**
 - **PostgreSQL**
 - **Docker** 
 <p>
@@ -35,6 +36,7 @@ $ docker-compose up
         <img src=architecture/python.png width="100" height="100">
         <img src=architecture/airflow.png alt="Airflow" width="120" height="100">
         <img src=architecture/kafka.png alt="Kafka" width="100" height="100">
+        <img src=architecture/zookeeper.png alt="ZooKeeper" width="100" height="100">        
         <img src=architecture/spark.png alt="Spark" width="100" height="100">
         <img src=architecture/cassandra.png alt="Cassandra" width="100" height="100">
         <img src=architecture/postgree.png alt="postgreSQL" width="100" height="100">
