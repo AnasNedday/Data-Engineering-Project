@@ -133,3 +133,12 @@ Werkzeug==2.2.3
 wrapt==1.15.0
 WTForms==3.0.1
 yarl==1.9.2
+pip~=23.3.1
+wheel~=0.37.1
+filelock~=3.12.4
+setuptools~=66.1.1
+numpy~=1.26.1
+pandas~=2.1.2
+chardet~=5.2.0
+pyparsing~=3.1.1
+zipp~=3.17.0
