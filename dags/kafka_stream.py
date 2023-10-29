@@ -53,8 +53,10 @@ def stream_data():
             res = format_data(res)
 
             producer.send('users_created', json.dumps(res).encode('utf-8'))
+            print("Sent successfully")
         except Exception as e:
             logging.error(f'An error occured: {e}')
+            print("error message")
             continue
 
 with DAG('user_automation',
@@ -66,3 +68,5 @@ with DAG('user_automation',
         task_id='stream_data_from_api',
         python_callable=stream_data
     )
+
+stream_data()
