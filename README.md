@@ -14,7 +14,7 @@ data engineering challenges.</p>
 - [Architecture](#Architecture)
 - [Installation](#Installation)
 - [Technologies and Tools](#Technologies-and-Tools)
-- [Contribute](#contribute)
+
 
 ## <ins> Architecture : </ins>
 ![Project architecture](architecture/architecture.png)
